@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie DB Java</string>
+    <string name="overview">Overview</string>
+    <string name="review">Reviews</string>
+    <string name="genres">Genres</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="production_companies">Production Companies</string>
+    <string name="production_countries">Production Countries</string>
+</resources>
